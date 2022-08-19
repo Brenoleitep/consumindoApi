@@ -1,0 +1,30 @@
+HTTP/1.1 200 OK
+Date: Fri, 19 Aug 2022 19:07:30 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 338
+Connection: close
+alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+access-control-allow-origin: *
+Cache-Control: public, max-age=86400, s-maxage=86400
+Content-Encoding: gzip
+etag: W/"59b-Kfltf+Iv7/MhOj8wQ9iS/mZWSfI"
+function-execution-id: cjf9k043re2m
+strict-transport-security: max-age=31556926
+x-cloud-trace-context: 26f23c43e7bf308786f1d0fa913f2a8a
+x-country-code: US
+x-powered-by: Express
+x-served-by: cache-lga21947-LGA
+x-cache: HIT
+x-cache-hits: 1
+x-timer: S1660616269.317773,VS0,VE1
+vary: Accept-Encoding,cookie,need-authorization, x-fh-requested-host, accept-encoding
+CF-Cache-Status: HIT
+Age: 7638
+Accept-Ranges: bytes
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=%2BOhgDjDMooWHNmTVBTYDyVpOJbaEcEM5Nf%2BUsMUa4WRtbMRFr3zwCZFc64NFQW8Ik7tpw8y%2BkpySEFouaYFxM3DuIh4pk1J0dhy4t5Ng6Nvx%2FUOjpqYuc1o9VgRi"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 73d52c2d18fdf055-EWR
+
+{"count":327,"next":"https://pokeapi.co/api/v2/ability/?offset=20&limit=20","previous":null,"results":[{"name":"stench","url":"https://pokeapi.co/api/v2/ability/1/"},{"name":"drizzle","url":"https://pokeapi.co/api/v2/ability/2/"},{"name":"speed-boost","url":"https://pokeapi.co/api/v2/ability/3/"},{"name":"battle-armor","url":"https://pokeapi.co/api/v2/ability/4/"},{"name":"sturdy","url":"https://pokeapi.co/api/v2/ability/5/"},{"name":"damp","url":"https://pokeapi.co/api/v2/ability/6/"},{"name":"limber","url":"https://pokeapi.co/api/v2/ability/7/"},{"name":"sand-veil","url":"https://pokeapi.co/api/v2/ability/8/"},{"name":"static","url":"https://pokeapi.co/api/v2/ability/9/"},{"name":"volt-absorb","url":"https://pokeapi.co/api/v2/ability/10/"},{"name":"water-absorb","url":"https://pokeapi.co/api/v2/ability/11/"},{"name":"oblivious","url":"https://pokeapi.co/api/v2/ability/12/"},{"name":"cloud-nine","url":"https://pokeapi.co/api/v2/ability/13/"},{"name":"compound-eyes","url":"https://pokeapi.co/api/v2/ability/14/"},{"name":"insomnia","url":"https://pokeapi.co/api/v2/ability/15/"},{"name":"color-change","url":"https://pokeapi.co/api/v2/ability/16/"},{"name":"immunity","url":"https://pokeapi.co/api/v2/ability/17/"},{"name":"flash-fire","url":"https://pokeapi.co/api/v2/ability/18/"},{"name":"shield-dust","url":"https://pokeapi.co/api/v2/ability/19/"},{"name":"own-tempo","url":"https://pokeapi.co/api/v2/ability/20/"}]}
