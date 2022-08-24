@@ -3,3 +3,7 @@ GET https://rickandmortyapi.com/api/character/
 GET https://rickandmortyapi.com/api/location/
 ###
 GET https://pokeapi.co/api/v2/ability/
+###
+GET https://www.w3.org/People/Berners-Lee/
+###
+GET https://rickandmortyapi.com/api/character/2
